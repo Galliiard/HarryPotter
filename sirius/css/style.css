@@ -1,5 +1,7 @@
-
+*{
+    box-sizing: border-box;
+}
 
 .tekst{
-    font-size: 40px;
+    font-size: 25px;
 }
